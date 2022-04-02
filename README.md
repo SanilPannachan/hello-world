@@ -17,4 +17,6 @@
 3. Medelin
 4. Naples
 
-**I also do like pizza**
+**Hotdog changes from the hobbies branch**
+1. Chicago Style HotDog
+2. New York Style HotDog
